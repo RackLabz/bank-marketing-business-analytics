@@ -1,4 +1,4 @@
-# Bank Marketing – Business Analytics & Machine Learning
+# Bank Marketing: Business Analytics & Machine Learning
 
 Predict whether a customer will subscribe to a term deposit using historical bank marketing campaign data.
 This project demonstrates an end-to-end workflow from data preparation to evaluation and interpretation, with a business lens.

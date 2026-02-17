@@ -41,6 +41,6 @@ jupyter notebook
 ```
 
 ## Author
-Ugwuoke Shedrack Chinonso (@RackLabz)  
+Ugwuoke Shedrack Chinonso  
 GitHub: https://github.com/RackLabz  
 LinkedIn: https://www.linkedin.com/in/shedrack-chinonso-69058219a

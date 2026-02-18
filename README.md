@@ -90,6 +90,12 @@ To reproduce this project:
    ```bash
    pip install -r requirements.txt
    ```
+3. Run the notebook in the notebooks/ directory
+   The notebook downloads the dataset directly and uses pipelines to ensure consistent preprocessing.
+
+## Tools
+
+Python, Pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
 
 ## Author
 Ugwuoke Shedrack Chinonso  
